@@ -1,0 +1,23 @@
+{
+  "name": "@discovery/stylelint-plugin-logical-properties",
+  "version": "1.0.0",
+  "description": "A Stylelint plugin to convert physical CSS properties to logical properties.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-plugin",
+    "css",
+    "logical-properties"
+  ],
+  "author": "gizayeroglu1@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint": "^16.14.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
